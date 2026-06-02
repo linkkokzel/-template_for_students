@@ -1,0 +1,15 @@
+C:\Users\Студент\source\repos\AndrewKonchevichPrivet\AndrewKonchevichPrivet\obj\Debug\AndrewKonchevichPrivet.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\AndrewKonchevichPrivet\AndrewKonchevichPrivet\obj\Debug\MainWindow.baml
+C:\Users\Студент\source\repos\AndrewKonchevichPrivet\AndrewKonchevichPrivet\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\source\repos\AndrewKonchevichPrivet\AndrewKonchevichPrivet\obj\Debug\App.g.cs
+C:\Users\Студент\source\repos\AndrewKonchevichPrivet\AndrewKonchevichPrivet\obj\Debug\AndrewKonchevichPrivet_MarkupCompile.cache
+C:\Users\Студент\source\repos\AndrewKonchevichPrivet\AndrewKonchevichPrivet\obj\Debug\AndrewKonchevichPrivet.g.resources
+C:\Users\Студент\source\repos\AndrewKonchevichPrivet\AndrewKonchevichPrivet\obj\Debug\AndrewKonchevichPrivet.Properties.Resources.resources
+C:\Users\Студент\source\repos\AndrewKonchevichPrivet\AndrewKonchevichPrivet\obj\Debug\AndrewKonchevichPrivet.csproj.GenerateResource.cache
+C:\Users\Студент\source\repos\AndrewKonchevichPrivet\AndrewKonchevichPrivet\obj\Debug\AndrewKonchevichPrivet.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\AndrewKonchevichPrivet\AndrewKonchevichPrivet\bin\Debug\AndrewKonchevichPrivet.exe.config
+C:\Users\Студент\source\repos\AndrewKonchevichPrivet\AndrewKonchevichPrivet\bin\Debug\AndrewKonchevichPrivet.exe
+C:\Users\Студент\source\repos\AndrewKonchevichPrivet\AndrewKonchevichPrivet\bin\Debug\AndrewKonchevichPrivet.pdb
+C:\Users\Студент\source\repos\AndrewKonchevichPrivet\AndrewKonchevichPrivet\obj\Debug\AndrewKonchevichPrivet.exe
+C:\Users\Студент\source\repos\AndrewKonchevichPrivet\AndrewKonchevichPrivet\obj\Debug\AndrewKonchevichPrivet.pdb
+C:\Users\Студент\source\repos\AndrewKonchevichPrivet\AndrewKonchevichPrivet\obj\Debug\AndrewKonchevichPrivet.exe.config
