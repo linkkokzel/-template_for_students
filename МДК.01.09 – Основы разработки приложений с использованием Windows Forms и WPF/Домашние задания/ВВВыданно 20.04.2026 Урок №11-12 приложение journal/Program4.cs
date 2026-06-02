@@ -11,7 +11,6 @@ namespace CurrencyApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            // Запускаем окно курсов валют
             Application.Run(new CurrencyForm());
         }
     }
@@ -20,13 +19,11 @@ namespace CurrencyApp
     {
         Label labelTitle;
 
-        // Элементы для таблицы курсов
         Label labelRates;
         Label labelBtc;
         Label labelEth;
         Label labelLtc;
 
-        // Элементы для конвертера
         Label labelConverterTitle;
         TextBox textAmount;
         ComboBox comboFrom;
@@ -34,18 +31,15 @@ namespace CurrencyApp
         Button buttonConvert;
         Label labelResult;
 
-        // Панель для графика
         Panel panelChart;
 
         public CurrencyForm()
         {
-            // Настройки окна программы
             this.Text = "Курсы Валют и Конвертер";
             this.Size = new Size(550, 480);
             this.StartPosition = FormStartPosition.CenterScreen;
-            this.BackColor = Color.FromArgb(24, 24, 36); // Темная тема как на макете
+            this.BackColor = Color.FromArgb(24, 24, 36); 
 
-            // 1. Главный заголовок
             labelTitle = new Label();
             labelTitle.Text = "Мониторинг Валют";
             labelTitle.ForeColor = Color.White;
@@ -54,7 +48,6 @@ namespace CurrencyApp
             labelTitle.Size = new Size(300, 30);
             this.Controls.Add(labelTitle);
 
-            // 2. Таблица текущих курсов
             labelRates = new Label();
             labelRates.Text = "Текущие курсы:";
             labelRates.ForeColor = Color.DarkGray;
@@ -87,7 +80,6 @@ namespace CurrencyApp
             labelLtc.Size = new Size(250, 20);
             this.Controls.Add(labelLtc);
 
-            // 3. Блок конвертера валют
             labelConverterTitle = new Label();
             labelConverterTitle.Text = "Быстрая Конвертация:";
             labelConverterTitle.ForeColor = Color.DarkGray;
@@ -142,12 +134,10 @@ namespace CurrencyApp
             labelResult.Size = new Size(350, 25);
             this.Controls.Add(labelResult);
 
-            // 4. Панель графика
             Label labelChartTitle = new Label();
             labelChartTitle.Text = "График изменения (BTC/USD):";
             labelChartTitle.ForeColor = Color.DarkGray;
             labelChartTitle.Font = new Font("Arial", 10, FontStyle.Bold);
-            // ЗДЕСЬ БЫЛА ОШИБКА, СЕЙЧАС ВСЁ ИСПРАВЛЕНО:
             labelChartTitle.Location = new Point(20, 280);
             labelChartTitle.Size = new Size(250, 20);
             this.Controls.Add(labelChartTitle);
