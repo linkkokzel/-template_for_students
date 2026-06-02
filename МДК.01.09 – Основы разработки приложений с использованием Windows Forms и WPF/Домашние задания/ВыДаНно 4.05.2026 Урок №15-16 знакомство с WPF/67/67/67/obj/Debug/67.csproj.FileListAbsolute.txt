@@ -1,0 +1,29 @@
+C:\Users\Студент\source\repos\67\67\obj\Debug\67.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\67\67\obj\Debug\App.g.cs
+C:\Users\Студент\source\repos\67\67\obj\Debug\67_MarkupCompile.cache
+C:\Users\Студент\source\repos\67\67\bin\Debug\67.exe.config
+C:\Users\Студент\source\repos\67\67\bin\Debug\67.exe
+C:\Users\Студент\source\repos\67\67\bin\Debug\67.pdb
+C:\Users\Студент\source\repos\67\67\obj\Debug\MainWindow.baml
+C:\Users\Студент\source\repos\67\67\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\source\repos\67\67\obj\Debug\67.g.resources
+C:\Users\Студент\source\repos\67\67\obj\Debug\_67.Properties.Resources.resources
+C:\Users\Студент\source\repos\67\67\obj\Debug\67.csproj.GenerateResource.cache
+C:\Users\Студент\source\repos\67\67\obj\Debug\67.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\67\67\obj\Debug\67.exe
+C:\Users\Студент\source\repos\67\67\obj\Debug\67.pdb
+C:\Users\Студент\Desktop\виндоус форм\ВыДаНно 4.05.2026 Урок №15-16 знакомство с WPF\67\67\67\bin\Debug\67.exe.config
+C:\Users\Студент\Desktop\виндоус форм\ВыДаНно 4.05.2026 Урок №15-16 знакомство с WPF\67\67\67\bin\Debug\67.exe
+C:\Users\Студент\Desktop\виндоус форм\ВыДаНно 4.05.2026 Урок №15-16 знакомство с WPF\67\67\67\bin\Debug\67.pdb
+C:\Users\Студент\Desktop\виндоус форм\ВыДаНно 4.05.2026 Урок №15-16 знакомство с WPF\67\67\67\obj\Debug\67.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\виндоус форм\ВыДаНно 4.05.2026 Урок №15-16 знакомство с WPF\67\67\67\obj\Debug\67.exe.config
+C:\Users\Студент\Desktop\виндоус форм\ВыДаНно 4.05.2026 Урок №15-16 знакомство с WPF\67\67\67\obj\Debug\MainWindow.baml
+C:\Users\Студент\Desktop\виндоус форм\ВыДаНно 4.05.2026 Урок №15-16 знакомство с WPF\67\67\67\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\виндоус форм\ВыДаНно 4.05.2026 Урок №15-16 знакомство с WPF\67\67\67\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\виндоус форм\ВыДаНно 4.05.2026 Урок №15-16 знакомство с WPF\67\67\67\obj\Debug\67_MarkupCompile.cache
+C:\Users\Студент\Desktop\виндоус форм\ВыДаНно 4.05.2026 Урок №15-16 знакомство с WPF\67\67\67\obj\Debug\67.g.resources
+C:\Users\Студент\Desktop\виндоус форм\ВыДаНно 4.05.2026 Урок №15-16 знакомство с WPF\67\67\67\obj\Debug\_67.Properties.Resources.resources
+C:\Users\Студент\Desktop\виндоус форм\ВыДаНно 4.05.2026 Урок №15-16 знакомство с WPF\67\67\67\obj\Debug\67.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\виндоус форм\ВыДаНно 4.05.2026 Урок №15-16 знакомство с WPF\67\67\67\obj\Debug\67.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\виндоус форм\ВыДаНно 4.05.2026 Урок №15-16 знакомство с WPF\67\67\67\obj\Debug\67.exe
+C:\Users\Студент\Desktop\виндоус форм\ВыДаНно 4.05.2026 Урок №15-16 знакомство с WPF\67\67\67\obj\Debug\67.pdb
