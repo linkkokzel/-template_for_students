@@ -1,0 +1,14 @@
+C:\Users\Студент\source\repos\pipun\pipun\bin\Debug\pipun.exe.config
+C:\Users\Студент\source\repos\pipun\pipun\bin\Debug\pipun.exe
+C:\Users\Студент\source\repos\pipun\pipun\bin\Debug\pipun.pdb
+C:\Users\Студент\source\repos\pipun\pipun\obj\Debug\pipun.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\pipun\pipun\obj\Debug\MainWindow.baml
+C:\Users\Студент\source\repos\pipun\pipun\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\source\repos\pipun\pipun\obj\Debug\App.g.cs
+C:\Users\Студент\source\repos\pipun\pipun\obj\Debug\pipun_MarkupCompile.cache
+C:\Users\Студент\source\repos\pipun\pipun\obj\Debug\pipun.g.resources
+C:\Users\Студент\source\repos\pipun\pipun\obj\Debug\pipun.Properties.Resources.resources
+C:\Users\Студент\source\repos\pipun\pipun\obj\Debug\pipun.csproj.GenerateResource.cache
+C:\Users\Студент\source\repos\pipun\pipun\obj\Debug\pipun.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\pipun\pipun\obj\Debug\pipun.exe
+C:\Users\Студент\source\repos\pipun\pipun\obj\Debug\pipun.pdb
