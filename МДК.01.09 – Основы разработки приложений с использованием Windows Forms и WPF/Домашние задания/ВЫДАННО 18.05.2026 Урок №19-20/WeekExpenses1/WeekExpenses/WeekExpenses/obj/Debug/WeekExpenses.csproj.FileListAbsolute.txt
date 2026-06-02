@@ -1,0 +1,29 @@
+C:\Users\Студент\source\repos\WeekExpenses\WeekExpenses\bin\Debug\WeekExpenses.exe.config
+C:\Users\Студент\source\repos\WeekExpenses\WeekExpenses\bin\Debug\WeekExpenses.exe
+C:\Users\Студент\source\repos\WeekExpenses\WeekExpenses\bin\Debug\WeekExpenses.pdb
+C:\Users\Студент\source\repos\WeekExpenses\WeekExpenses\obj\Debug\WeekExpenses.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\WeekExpenses\WeekExpenses\obj\Debug\MainWindow.baml
+C:\Users\Студент\source\repos\WeekExpenses\WeekExpenses\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\source\repos\WeekExpenses\WeekExpenses\obj\Debug\App.g.cs
+C:\Users\Студент\source\repos\WeekExpenses\WeekExpenses\obj\Debug\WeekExpenses_MarkupCompile.cache
+C:\Users\Студент\source\repos\WeekExpenses\WeekExpenses\obj\Debug\WeekExpenses.g.resources
+C:\Users\Студент\source\repos\WeekExpenses\WeekExpenses\obj\Debug\WeekExpenses.Properties.Resources.resources
+C:\Users\Студент\source\repos\WeekExpenses\WeekExpenses\obj\Debug\WeekExpenses.csproj.GenerateResource.cache
+C:\Users\Студент\source\repos\WeekExpenses\WeekExpenses\obj\Debug\WeekExpenses.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\WeekExpenses\WeekExpenses\obj\Debug\WeekExpenses.exe
+C:\Users\Студент\source\repos\WeekExpenses\WeekExpenses\obj\Debug\WeekExpenses.pdb
+C:\Users\Студент\Desktop\виндоус форм\ВЫДАННО 18.05.2026 Урок №19-20\WeekExpenses\WeekExpenses\bin\Debug\WeekExpenses.exe.config
+C:\Users\Студент\Desktop\виндоус форм\ВЫДАННО 18.05.2026 Урок №19-20\WeekExpenses\WeekExpenses\bin\Debug\WeekExpenses.exe
+C:\Users\Студент\Desktop\виндоус форм\ВЫДАННО 18.05.2026 Урок №19-20\WeekExpenses\WeekExpenses\bin\Debug\WeekExpenses.pdb
+C:\Users\Студент\Desktop\виндоус форм\ВЫДАННО 18.05.2026 Урок №19-20\WeekExpenses\WeekExpenses\obj\Debug\WeekExpenses.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\виндоус форм\ВЫДАННО 18.05.2026 Урок №19-20\WeekExpenses\WeekExpenses\obj\Debug\WeekExpenses.exe.config
+C:\Users\Студент\Desktop\виндоус форм\ВЫДАННО 18.05.2026 Урок №19-20\WeekExpenses\WeekExpenses\obj\Debug\MainWindow.baml
+C:\Users\Студент\Desktop\виндоус форм\ВЫДАННО 18.05.2026 Урок №19-20\WeekExpenses\WeekExpenses\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\виндоус форм\ВЫДАННО 18.05.2026 Урок №19-20\WeekExpenses\WeekExpenses\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\виндоус форм\ВЫДАННО 18.05.2026 Урок №19-20\WeekExpenses\WeekExpenses\obj\Debug\WeekExpenses_MarkupCompile.cache
+C:\Users\Студент\Desktop\виндоус форм\ВЫДАННО 18.05.2026 Урок №19-20\WeekExpenses\WeekExpenses\obj\Debug\WeekExpenses.g.resources
+C:\Users\Студент\Desktop\виндоус форм\ВЫДАННО 18.05.2026 Урок №19-20\WeekExpenses\WeekExpenses\obj\Debug\WeekExpenses.Properties.Resources.resources
+C:\Users\Студент\Desktop\виндоус форм\ВЫДАННО 18.05.2026 Урок №19-20\WeekExpenses\WeekExpenses\obj\Debug\WeekExpenses.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\виндоус форм\ВЫДАННО 18.05.2026 Урок №19-20\WeekExpenses\WeekExpenses\obj\Debug\WeekExpenses.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\виндоус форм\ВЫДАННО 18.05.2026 Урок №19-20\WeekExpenses\WeekExpenses\obj\Debug\WeekExpenses.exe
+C:\Users\Студент\Desktop\виндоус форм\ВЫДАННО 18.05.2026 Урок №19-20\WeekExpenses\WeekExpenses\obj\Debug\WeekExpenses.pdb
