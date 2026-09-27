@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block title %}Профиль{% endblock %}
+{% block content %}
+<section class="card">
+    <h1>Личный кабинет</h1>
+    <dl class="profile">
+        <dt>ID</dt><dd>{{ user.id }}</dd>
+        <dt>Username</dt><dd>{{ user.username }}</dd>
+        <dt>Email</dt><dd>{{ user.email }}</dd>
+        <dt>Дата регистрации</dt><dd>{{ user.created_at.strftime("%d.%m.%Y %H:%M") }}</dd>
+    </dl>
+
+    <form method="post" action="{{ url_for('logout') }}">
+        {{ csrf_token() }}
+        <button class="button danger" type="submit">Выйти из системы</button>
+    </form>
+</section>
+{% endblock %}

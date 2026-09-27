@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}Вход{% endblock %}
+{% block content %}
+<section class="card">
+    <h1>Вход</h1>
+    <form method="post" novalidate>
+        {{ form.hidden_tag() }}
+
+        <label>{{ form.username.label }}</label>
+        {{ form.username(class="input", placeholder="username") }}
+        {% for error in form.username.errors %}<p class="error">{{ error }}</p>{% endfor %}
+
+        <label>{{ form.password.label }}</label>
+        {{ form.password(class="input") }}
+        {% for error in form.password.errors %}<p class="error">{{ error }}</p>{% endfor %}
+
+        {{ form.submit(class="button") }}
+    </form>
+    <p class="muted">Нет аккаунта? <a href="{{ url_for('register') }}">Зарегистрироваться</a></p>
+</section>
+{% endblock %}
